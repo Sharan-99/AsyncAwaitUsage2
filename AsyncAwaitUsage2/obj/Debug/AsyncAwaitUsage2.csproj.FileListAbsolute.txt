@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.exe.config
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.exe
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.pdb
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.Form1.resources
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.Properties.Resources.resources
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.GenerateResource.cache
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.exe
+C:\Users\2091199\source\repos\AsyncAwaitUsage2\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.pdb
